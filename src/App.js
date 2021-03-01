@@ -43,7 +43,7 @@ function App() {
          <img 
           src={GithubImage} 
           className="responsive rounded-circle" 
-          alt="Github Image"
+          alt="Github"
           height="200px"
          />
        )}
